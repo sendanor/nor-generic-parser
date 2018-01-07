@@ -17,7 +17,7 @@ npm install --save nor-generic-parser
 See:
 
 * [nor-prompt-parser](https://github.com/sendanor/nor-prompt-parser/)
-* [tests for PromptParser](test/PromptParser.test.js).
+* [tests for GenericParser](test/GenericParser.test.js).
 
 ## License
 
