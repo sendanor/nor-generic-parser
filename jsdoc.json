@@ -15,9 +15,9 @@
   "templates": {
     "cleverLinks": false,
     "monospaceLinks": true,
-    "systemName": "cloud-backend",
+    "systemName": "nor-generic-parser",
     "footer": "Created by Sendanor",
-    "copyright": "2017",
+    "copyright": "2017-2018",
     "navType": "vertical",
     "theme": "spacelab",
     "linenums": true,

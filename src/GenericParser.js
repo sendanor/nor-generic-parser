@@ -1,5 +1,5 @@
 /**
- * @module @sendanor/cloud-backend
+ * @module @sendanor/nor-generic-parser
  */
 
 import _ from 'lodash';
